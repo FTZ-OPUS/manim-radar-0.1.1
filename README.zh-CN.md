@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![CI](https://github.com/FTZ-OPUS/manim-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/FTZ-OPUS/manim-radar/actions/workflows/ci.yml)
 
-![demo](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/demo.gif)
+![manim-radar 0.1.1 showcase](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/showcase-0.1.1.gif)
 
 ```python
 from manim import *
@@ -64,6 +64,7 @@ pip install manim_radar
 
 | | |
 |---|---|
+| ![0.1.1 新功能展示](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/showcase-0.1.1.gif) | **0.1.1 新功能展示** —— 多组数据对比、越界尖峰和镜头推进。`examples/10_showcase.py` |
 | ![quickstart](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/quickstart.gif) | **快速上手** —— 建图 → 入场 → 变形 → 出场，一共十行。`examples/01_quickstart.py` |
 | ![transitions](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/demo.gif) | **转场一览** —— smooth / shockwave / zoom / glitch / rim。`examples/02_morph_gallery.py` |
 | ![reel](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/reel.gif) | **一句话播序列** —— 含黑场间隔的整条成片。`examples/03_reel.py` |

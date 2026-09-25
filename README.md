@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![CI](https://github.com/FTZ-OPUS/manim-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/FTZ-OPUS/manim-radar/actions/workflows/ci.yml)
 
-![demo](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/demo.gif)
+![manim-radar 0.1.1 showcase](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/showcase-0.1.1.gif)
 
 ```python
 from manim import *
@@ -65,6 +65,7 @@ Every GIF below was rendered straight from the matching example scene
 
 | | |
 |---|---|
+| ![0.1.1 showcase](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/showcase-0.1.1.gif) | **0.1.1 feature showcase** — multi-dataset comparison, overflow spikes and camera moves. `examples/10_showcase.py` |
 | ![quickstart](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/quickstart.gif) | **Quickstart** — build → reveal → morph → fade, in ten lines. `examples/01_quickstart.py` |
 | ![transitions](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/demo.gif) | **Transitions** — smooth / shockwave / zoom / glitch / rim. `examples/02_morph_gallery.py` |
 | ![reel](https://raw.githubusercontent.com/FTZ-OPUS/manim-radar-0.1.1/main/docs/reel.gif) | **One-command reel** — a whole sequence, black gap included. `examples/03_reel.py` |
